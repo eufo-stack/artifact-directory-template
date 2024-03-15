@@ -1,5 +1,5 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+Application of Large Language Models to the Evaluation of an  Automated System for Chest Radiograph Interpretation
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+In this project, we are building off of an existing image-encoder and LLM framework, LLaVA (Large Language and Vision Assistant), by fine-tuning the model on our dataset of around 23,000 chest X-ray images sourced from patients at UC San Diego Health. Utilizing prompt engineering techniques, our objective is to build a medical LLM that specializes in interpreting X-ray images and generating diagnostic reports that parallel the expertise of professional radiologists. The assessment of model performance will be done through both Natural Language Processing (NLP) methodologies and LLM evaluation to ensure a comprehensive analysis of the model’s diagnostic accuracy.
